@@ -1,0 +1,28 @@
+.person-list {
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 0 10px;
+    max-width: 1000px;
+}
+
+.person-list__buttons {
+    margin-top: 20px;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    margin-bottom: 5px;
+    height: 30px;
+}
+
+.wrapper_list {
+    display: flex;
+    flex-direction: column;
+}
+
+.wrapper_tiles {
+    display: flex;
+    justify-content: space-between; 
+}

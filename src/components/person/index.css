@@ -1,0 +1,25 @@
+
+.person__list_list {
+    display: flex;
+}
+    
+.person__list_tiles {
+    border: 2px solid black;
+    flex-basis: 30%;
+}
+
+.person__list-item {
+    list-style-type: none;
+    white-space: normal;
+}
+
+.person__list-item_list {
+    width: 100%;
+    border: 2px solid black;
+    padding: 5px 0;
+    margin-bottom: 20px;
+}
+
+.person__list-item_tiles {
+    margin-bottom: 10px;
+}
